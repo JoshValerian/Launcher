@@ -1,0 +1,1 @@
+El launcher corresponde a una versión anterior del proyecto, debido a que en la actual hay unos errores de compilación que no me ha dado tiempo a corregir para esta entrega y por lo tanto no podia crear una nueva build del proyecto.
